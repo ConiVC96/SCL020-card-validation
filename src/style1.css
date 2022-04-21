@@ -2,7 +2,12 @@
 
 
 
-body {background-color: #9999CC;
+body {
+    height: 400px;
+    background-image: url("neon.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center center;
 }
 
 h1{
