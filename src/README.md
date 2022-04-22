@@ -1,6 +1,6 @@
 # Concierto de Daft Punk: Interstella5555  (Card Validation) #
 
-En este proyecto se creo una aplicación web para validar el pago de los usuarios al comprar sus entradas para el concierto de la dupla Daft Punk. Se validará el número de tarjeta y que se enmascare los últimos 4 dígitos de la tarjeta.
+En este proyecto se creo una aplicación web para validar el pago de los usuarios al comprar sus entradas para el concierto de la  gran dupla robótica "Daft Punk". Se validará el número de tarjeta ingresado y que se enmascare los últimos 4 dígitos de la tarjeta.
 
 ## Primera ventana ##
 
