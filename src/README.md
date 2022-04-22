@@ -26,15 +26,15 @@ En este proyecto se creo una aplicación web para validar el pago de los usuario
 
 ### Usuarios y los objetivos en relación con el producto ###
 
-*Se creo una página para la compra de tickets, en dónde los usuarios interesados en acudir al concierto puedan comprar su entrada facilmente, eligiendo el lugar del estadio que más le acomode y acorde a su presupuesto.
+* Se creo una página para la compra de tickets, en dónde los usuarios interesados en acudir al concierto puedan comprar su entrada facilmente, eligiendo el lugar del estadio que más le acomode y acorde a su presupuesto. *
 
-*Esta página esta dirigida a cualquier usuario poseedor de una tarjeta visa, y que posea un conocimiento básico de compras en internet.
+* Esta página esta dirigida a cualquier usuario poseedor de una tarjeta visa, y que posea un conocimiento básico de compras en internet. *
 
 ### Explicar cómo el producto soluciona los problemas/necesidades de dichos usuarios ###
 
-*Debido al gran avance de la tecnología, la mayoría de las tareas que antes necesitaban ser completadas de forma presencial o telefónica ahora pueden ser rapida y sencillamente hechas vía internet. En este contexto de automatización, sumado a la reciente pandemia que aumento considerablemente la automatización de procesos y servicios, las compras online se han vuelto parte normal a la hora de adquirir servicios o productos sin la necesidad de salir del hogar. 
+* Debido al gran avance de la tecnología, la mayoría de las tareas que antes necesitaban ser completadas de forma presencial o telefónica ahora pueden ser rapida y sencillamente hechas vía internet. En este contexto de automatización, sumado a la reciente pandemia que aumento considerablemente la automatización de procesos y servicios, las compras online se han vuelto parte normal a la hora de adquirir servicios o productos sin la necesidad de salir del hogar.* 
 
-*Esta página soluciona la necesidad de comprar entradas, con acceso al lugar y precio, junto con una interfaz clara e instintiva para pagar, sin la obligación de salir de casa y hacer filas para adquirirlas.
+* Esta página soluciona la necesidad de comprar entradas, con acceso al lugar y precio, junto con una interfaz clara e instintiva para pagar, sin la obligación de salir de casa y hacer filas para adquirirlas.*
 
 ## Prototipo en papel ##
 
@@ -43,9 +43,11 @@ En este proyecto se creo una aplicación web para validar el pago de los usuario
 ## Feedback ##
 
 
-Arreglar la semantica de HTML, cambiando el lugar de las etiquetas dentro de main y el lugar del link. Aplicar un section en método de pago.
-*Cambiar el color de fondo de validez.html para que coincida con la primera página.
-*En JavaScript cambiar el código para que el algoritmo de luhn retorne true or false al finalizar y pase los test.
+*Arreglar la semantica de HTML, cambiando el lugar de las etiquetas dentro de main y el lugar del link. Aplicar un section en método de pago.*
+
+*Cambiar el color de fondo de validez.html para que coincida con la primera página.*
+
+*En JavaScript cambiar el código para que el algoritmo de luhn retorne true or false al finalizar y pase los test.*
 
 
 ## Imagen del prototipo final ##
