@@ -1,101 +1,86 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,900,700,500);
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+
+
 
 body {
-  padding: 60px 0;
-  background-color:lightsteelblue;
-  margin: 0 auto;
-  width: 600px;
+    height: 400px;
+    background-image: url("neon.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center center;
 }
 
-.body-text {
-  padding: 0 20px 30px 20px;
-  font-family: "Roboto";
-  font-size: 1em;
-  color: #333;
-  text-align: center;
-  line-height: 1.2em;
+h1{
+    background-color: indigo;
+    font-family:"russo one";
+    font-size: 48px;
+    color: snow;
+    text-align: center;
 }
 
-.form-container {
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+#stars{
+    height: 50px;
+    width:50px;
 }
 
-h1 {
-  font-size: 1.6em;
-  font-family: "Roboto";
-  background-color: indigo;
-  width: 0 auto;
-  text-align: center;
-  color:antiquewhite;
-  border: 1px solid black;
+.flex-container{
+    width: 100%;
+    max-width: 1000px;
+    margin: auto;
 }
 
-input {
-  margin: 1px 0;
-  padding-left: 3%;
-  font-size: 14px;
+#stella{
+    height: 600px;
+    width: 500px;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
 }
 
-input[type="text"] {
-  height: 50px;
-  width: 97%;
-  border: none;
+#daftP{
+    height: 400px;
+    width: 400px;
+    float: right;
+    margin-bottom: 20px;
 }
 
-input[type="submit"] {
-  height: 60px;
-  width: 100%;
-  border: none;
-  background-color:indigo;
-  color: #fff;
-  margin-top: 2px;
-  cursor: pointer;
-  font-size: 0.9em;
-  font-weight: bold;
-  cursor: pointer;
-  border: 1px solid black;
+#valores{
+    height: 400px;
+    width: 400px;
+    float:right;
+    margin-bottom: 10px;
+    
+    
 }
 
-.columnLeft {
-  width: 46.5%;
-  float: left;
-  margin-bottom: 2px;
+.flex-container p{
+    font-size: 30px;
+    font-weight: 200;
+    color: aliceblue;
+
 }
 
-.columnRight {
-  width: 46.5%;
-  float: right;
+a{
+    color: aliceblue;
 }
 
-.flex-container {
-  width: 100%;
-  max-width: 1000px;
-  margin: auto;
-}
+.boton {
+    border: 1px solid black; 
+    padding: 2px; 
+    background-color: indigo;
+    color:lightgray;
+    text-decoration:none;
+    text-transform:none;
+    font-family:"russo one";
+    border-radius:10px;
+    }
 
-.image-flex {
-  flex-direction: row;
-}
+    footer{
+        color: aliceblue;
+        font-style: italic;
+        text-align: center;
+    }
 
-#front {
-  height: 200px;
-  width: 270px;
-  float: left;
-  margin: auto;
-}
-
-#back {
-  height: 200px;
-  width: 270px;
-  float: right;
-  margin: auto;
-}
-
-section {
-  background-color: snow;
-  border: 1px solid black;
-  padding: 15px;
-  margin: 10px;
-}
+    p{
+        font-family:"russo one";
+    }

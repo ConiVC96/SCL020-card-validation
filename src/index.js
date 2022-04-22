@@ -12,9 +12,8 @@ inputPayment.addEventListener('change', (e) => {
   let value = e.target.value                       // esto es lo mismo que poner inputPayment.value pero por convención es mejor este
   let maskData = validator.maskify(value)         // esta variable retorna el valor de maskify, que es el input enmascarado 
   paymentTemporalvalue = inputPayment.value      // a la variable pTV le pasaré el valor de iP para guardar el valor antes de transformarse 
-                                                //para después cambiar el valor al Maskdata
-  return inputPayment.value = maskData
-  
+ //para después cambiar el valor al Maskdata
+  inputPayment.value = maskData   
 })
 
 // eventListener onsubmit (cuando el formulario se ha enviado)
