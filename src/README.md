@@ -43,11 +43,17 @@ En este proyecto se creo una aplicación web para validar el pago de los usuario
 ## Feedback ##
 
 
-*Arreglar la semantica de HTML, cambiando el lugar de las etiquetas dentro de main y el lugar del link. Aplicar un section en método de pago.*
+* Arreglar la semantica de validez.html, corrigiendo el lugar de section dentro de la etiqueta main.*
 
-*Cambiar el color de fondo de validez.html para que coincida con la primera página.*
+* Cambiar el color de fondo de validez.html para que coincida con la primera página.*
 
-*En JavaScript cambiar el código para que el algoritmo de luhn retorne true or false al finalizar y pase los test.*
+* Buscar otra alternativa a float en css.*
+
+* Quitar la etiqueta <br> de HTML y hacer el espacio en css.
+
+* En los archivos JavaScript cambiar el código para que el algoritmo de luhn retorne true or false al finalizar y pase los tests.*
+
+* En validator.js sacar el método eval e idear otra forma de sumar el array de números.
 
 
 ## Imagen del prototipo final ##
@@ -55,7 +61,3 @@ En este proyecto se creo una aplicación web para validar el pago de los usuario
 ![image](https://user-images.githubusercontent.com/102159121/164586347-5ad894fc-0edd-47bf-bb4b-95c072e960f4.png)
 
 ![image](https://user-images.githubusercontent.com/102159121/164586377-11bbcf38-b50a-4272-b9cc-e0f0829acfe0.png)
-
-
-
-
