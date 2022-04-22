@@ -61,4 +61,3 @@ En este proyecto se creo una aplicación web para validar el pago de los usuario
 ![image](https://user-images.githubusercontent.com/102159121/164586347-5ad894fc-0edd-47bf-bb4b-95c072e960f4.png)
 
 ![image](https://user-images.githubusercontent.com/102159121/164586377-11bbcf38-b50a-4272-b9cc-e0f0829acfe0.png)
-
