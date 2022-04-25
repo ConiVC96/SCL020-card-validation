@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Validación Tarjeta de Crédito</title>
+  <link rel="stylesheet" href="styleVal.css" />
+</head>
+<body>
+    <header>
+      <h1>Método de pago / Tarjeta de Crédito</h1>
+    </header>
+    <main>
+      <section>
+        <img src="Parte-delantera.jpeg" id="front">
+        <img src="Parte-trasera.jpeg" id="back">
+      </div>
+    </div>
+      <div class="body-text">Rellene los datos correspondientes para cada campo</div>
+      <form method="post" id="paymentForm">
+        <div class="form-container">
+          <div class="personal-information">
+            <h1>Información de Pago</h1>
+          </div>
+          <input  type="text"  placeholder="Nombre" />
+          <input  type="text"  placeholder="Apellido" />
+          <input  type="text"  id="creditCard" minlenght="1" maxlenght="16" name="creditCard" placeholder="Número de tarjeta"/>
+          <label> Fecha de expiración: <input  type="month" id= "calendar" min="2022-05" max="2030-12"  placeholder="Fecha de Expiración" /></label>
+          <input  type="text"  placeholder="CVC" />
+          <input  type="submit"id="input-button" value="Submit" />
+        </div>
+      </form>
+    </section>
+    </main>
+  <script src="index.js" type="module"></script>
+</body>
+</html>

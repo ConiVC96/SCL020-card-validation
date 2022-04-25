@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+
+
+
+body {
+    height: 400px;
+    background-image: url("neon.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center center;
+}
+
+h1{
+    background-color: indigo;
+    font-family:"russo one";
+    font-size: 48px;
+    color: snow;
+    text-align: center;
+}
+
+#stars{
+    height: 50px;
+    width:50px;
+}
+
+.flex-container{
+    width: 100%;
+    max-width: 1000px;
+    margin: auto;
+}
+
+#stella{
+    height: 600px;
+    width: 500px;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+#daftP{
+    height: 400px;
+    width: 400px;
+    float: right;
+    margin-bottom: 20px;
+}
+
+#valores{
+    height: 400px;
+    width: 400px;
+    float:right;
+    margin-bottom: 10px;
+    
+    
+}
+
+.flex-container p{
+    font-size: 30px;
+    font-weight: 200;
+    color: aliceblue;
+
+}
+
+a{
+    color: aliceblue;
+}
+
+.boton {
+    border: 1px solid black; 
+    padding: 2px; 
+    background-color: indigo;
+    color:lightgray;
+    text-decoration:none;
+    text-transform:none;
+    font-family:"russo one";
+    border-radius:10px;
+    }
+
+    footer{
+        color: aliceblue;
+        font-style: italic;
+        text-align: center;
+    }
+
+    p{
+        font-family:"russo one";
+    }
