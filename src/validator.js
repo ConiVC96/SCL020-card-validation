@@ -3,7 +3,6 @@ const validator = {
    let splitNumbers = creditNumber.split('')
    let reverseNumbers = splitNumbers.reverse()
    let digits = reverseNumbers.map(Number); 
-   
     for (let i = 0; i < digits.length; i++) { 
       if (i % 2 ) { 
         digits[i] *= 2; 
@@ -13,7 +12,6 @@ const validator = {
       }   
     } 
     let sum = 0; 
-
       for (let i = 0; i < digits.length; i++)  {
         sum += digits[i];
       }
